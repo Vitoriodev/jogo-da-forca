@@ -10,6 +10,7 @@ def limpar_tela():
 
 # caregamento de 4 segundos
 def contagem_de_pontos():
+    oi = "teste de git"
     i = 0
     print("caregando", end="")
     while True:
